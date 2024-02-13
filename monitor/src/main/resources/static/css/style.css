@@ -1,0 +1,19 @@
+th {
+    cursor: pointer;
+}
+
+.table-dark {
+    --bs-table-color: #afafaf !important;  
+}
+
+thead {
+    --bs-table-color: #cdcdcd !important;
+}
+
+tr {
+
+}
+
+body {
+    background-color: #212529 !important;
+}
